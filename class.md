@@ -1,4 +1,3 @@
-Arpita 
-India
-Full Stack Development
-
+Matheus Kevin Levi
+Brandt de Moura
+Front-end Development

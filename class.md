@@ -1,4 +1,4 @@
-Arpita 
-India
-Full Stack Development
+Julius
+USA
+Front End Development
 

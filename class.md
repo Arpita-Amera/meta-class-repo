@@ -1,4 +1,4 @@
-Artur
-London
-Front-End Development
+Sharad  
+Pune, Maharashatra, India
+Meta frontend certificate program
 
